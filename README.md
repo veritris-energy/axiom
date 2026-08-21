@@ -1,3 +1,14 @@
+<pre class="mermaid">
+  graph LR
+      Start --> Stop
+</pre>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+
 flowchart TD
     VG["Veritris Group<br/>Corporate & Investment"]
     VTT["VTT<br/>Voice, Talk & Text<br/>Veritris Transport & Telecom Services"]
