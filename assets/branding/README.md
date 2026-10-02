@@ -9,3 +9,5 @@ The SVGs embed the transparent PNG and frame the horizontal artwork and standalo
 The horizontal logo appears in the Abacus section and module card. index.html references the square icon as the favicon. Platform branding, site palette, visible copy, and links remain intact apart from necessary logo sizing.
 
 Rollback base: dca0dbbde891a3f77cb741e3f046daf41ab57387. Revert the branding commit to restore the previous page and remove its assets. Deployment configuration is unchanged.
+
+The final favicon and header mark use abacus-four-slider-transparent.png, extracted from the user-supplied Four-Slider Cyberpunk Isotope Badge.png. Exterior background removed with the built-in image editor; dark interior backing and four sliders retained. The horizontal A/V logo remains in the Abacus section and module card.
